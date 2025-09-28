@@ -59,3 +59,7 @@ adiposity_r2_fstats.R
 **File containing functions used across scripts**
 
 alternative_functions.R
+
+**Power calculations**
+
+headspace_power_calc.R
